@@ -12,7 +12,7 @@ app.use(bodyParser.json());
 
 // Crea un'istanza del client OpenAI
 const openai = new OpenAI({
-  apiKey: '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',
+  apiKey: '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',
   organization: 'org-YwlkhDyXTOWQ446GiwMSQN3U',
   project: 'proj_O9CKPab0m46vGOnefe9WKic0',
 });
